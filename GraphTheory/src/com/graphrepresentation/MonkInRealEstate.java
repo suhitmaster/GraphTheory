@@ -15,14 +15,9 @@ Constraint:
  */
 
 package com.graphrepresentation;
-import java.util.Scanner;
 import java.io.*;
 import java.util.*;
-import java.math.*;
-import java.lang.*;
- 
-import static java.lang.Math.*;
- 
+  
 public class MonkInRealEstate {
 	  public static void main(String args[]) throws Exception {
 	      InputReader sc = new InputReader(System.in);
